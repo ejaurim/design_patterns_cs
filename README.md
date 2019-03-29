@@ -5,6 +5,7 @@ C:> dotnet --info
 .NET Core SDK(global.json 반영):
  Version:   2.2.102
  Commit:    96ff75a873
+ 
 
 - Get started with VSCode using C# and DesignPatterns
 - 참고( https://github.com/OmniSharp/omnisharp-vscode/blob/master/debugger.md )

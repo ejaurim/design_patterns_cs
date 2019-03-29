@@ -1,12 +1,11 @@
 # started with VSCode using C# and DesignPatterns
-==============================
 
 Documentation
 --------------
-IDE: [Visual Studio Code](//code.visualstudio.com/),
-language: C#,
-topic: DesignPattern,
-[ref](//github.com/OmniSharp/omnisharp-vscode/blob/master/debugger.md)
+- IDE: [Visual Studio Code](//code.visualstudio.com/)
+- language: C#
+- topic: DesignPattern
+- [ref](//github.com/OmniSharp/omnisharp-vscode/blob/master/debugger.md)
 
 How to run?
 --------------

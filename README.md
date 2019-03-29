@@ -11,14 +11,14 @@ How to run?
 --------------
 - download 
 - VSCode Open 
-- View->Integrated Terminal"(Ctrl+`)
+- View->Integrated Terminal(Ctrl+`)
 ```
 $ dotnet new
 $ dotnet restore
 ```
-- .Net version
+- My .Net version
 ```
-C:> dotnet --info
+$ dotnet --info
 .NET Core SDK(global.json 반영):
  Version:   2.2.102
  Commit:    96ff75a873
@@ -35,7 +35,7 @@ OSX: brew install openssl
 
 Create to Visual Stdio Code project?
 --------------
-1. Visual Studio Code에서 "View->Integrated Terminal"(Ctrl+`) 터미널 창 열기
+1. Visual Studio Code에서 "View->Integrated Terminal(Ctrl+`) 터미널 창 열기
 2. 프로젝트 생성 콘솔 명령어 
 새로온 폴더 생성 할 경우:
 ```
